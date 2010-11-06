@@ -71,7 +71,12 @@ servedbyadbutler.com
 adc.telegraph.co.uk
 overture.com
 servedbyadbutler.com
+adzerk.net
+com.com
 facebook.com#div(sidebar_ads)
 thepiratebay.org#div(ads)
 latimes.com#div(banner_ad_wrapper)
-adzerk.net
+|http://ak.bluestreak.com/*
+http://top.gratis-danmark.dk/*
+|http://*.valueclick.net/*
+*itslearning.com#div(promotion_content)
